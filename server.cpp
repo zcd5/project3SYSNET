@@ -1,3 +1,7 @@
+/*
+File name: server.cpp
+Description: contains the implementation of our server class that communicates with the client 
+*/
 #include "server.hpp"
 #include <iostream>
 #include <string>

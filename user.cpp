@@ -1,3 +1,7 @@
+/*
+File name: user.cpp
+Description: contains the declarations of our user class the holds the user's information
+*/
 #include "user.hpp" 
 #include <algorithm>
 

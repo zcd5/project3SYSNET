@@ -1,3 +1,7 @@
+/*
+File name: serverMain.cpp
+Description: The entry point of our server class that creates an serve instance and handles request from the client
+*/
 #include <iostream>
 #include <fstream>
 #include "server.hpp"

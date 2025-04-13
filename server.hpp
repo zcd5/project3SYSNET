@@ -1,3 +1,7 @@
+/*
+File name: server.hpp
+Description: contains the declarations of our server class that communicates with the client 
+*/
 #ifndef SERVER_HPP
 #define SERVER_HPP
 

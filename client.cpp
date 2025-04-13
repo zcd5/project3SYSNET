@@ -1,3 +1,7 @@
+/*
+File name: Client.cpp
+Description: contains the implemenation of our client class that sends and receives messages to the server
+*/
 #include "client.hpp"
 #include <iostream>
 #include <sys/socket.h>

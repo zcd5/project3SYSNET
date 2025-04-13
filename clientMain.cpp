@@ -1,3 +1,7 @@
+/*
+File name: ClientMain.cpp
+Description: the entry point of our client class that handles communication from the user to the server
+*/
 #include <iostream>
 #include "client.hpp"
 
